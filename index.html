@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%95%AF%EF%B8%8F%3C/text%3E%3C/svg%3E" />
     <title>코티드 랜드 · 왁뿌 제국기</title>
-    <script type="module" crossorigin src="./assets/index-C0AaJGzh.js"></script>
+    <script type="module" crossorigin src="./assets/index-CXD2nc__.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/CanvasPool-UKBFKXoQ.js">
     <link rel="modulepreload" crossorigin href="./assets/canvasUtils-C4EOzQNY.js">
-    <link rel="modulepreload" crossorigin href="./assets/RenderTargetSystem-BUZSMlsI.js">
+    <link rel="modulepreload" crossorigin href="./assets/RenderTargetSystem-CRWkdhnB.js">
     <link rel="modulepreload" crossorigin href="./assets/getTextureBatchBindGroup-BHA4o6O8.js">
-    <link rel="modulepreload" crossorigin href="./assets/getTexelRangeRects-gRo1pBi3.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-CwCa7XgN.css">
+    <link rel="modulepreload" crossorigin href="./assets/getTexelRangeRects-ZSNhw3oR.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-DwUqCPpf.css">
   </head>
   <body>
     <div id="app">
@@ -33,6 +33,9 @@
         <!-- 필드 위 시설 이름표 · 시설 패널 -->
         <div id="plates"></div>
         <div id="popup" class="panel" hidden></div>
+        <!-- 부족 마을 패널 (원정) · 정찰 제안 -->
+        <div id="region-panel" class="panel fieldpanel" hidden></div>
+        <div id="scout-panel" class="panel fieldpanel" hidden></div>
         <div id="cards" hidden></div>
         <div id="hint" class="hint" hidden></div>
         <!-- 진행 중인 원정 · 전투 결과 -->
@@ -45,7 +48,7 @@
         <!-- 하단 독 -->
         <nav id="dock">
           <button id="btn-auto" class="dock-btn"><span class="ic">🙌</span><b>일 맡기기</b><small id="auto-count"></small></button>
-          <button id="btn-map" class="dock-btn"><span class="ic">🗺️</span><b>지도</b><small>M</small></button>
+          <button id="btn-home" class="dock-btn" title="정착지로 돌아가기 (H)"><span class="ic">🏠</span><b>마을로</b><small>H</small></button>
           <button id="btn-exp" class="dock-btn"><span class="ic">⛺</span><b>원정</b><small id="exp-count"></small></button>
           <button id="btn-upgrade" class="dock-btn"><span class="ic">⬆️</span><b>강화</b><small id="up-count">U</small></button>
           <button id="btn-roster" class="dock-btn"><span class="ic">📋</span><b>명부</b><small>R</small></button>
@@ -54,20 +57,9 @@
         </nav>
         <!-- 3D 왁뿌 마당: 필드의 왁뿌 마당 위에 겹친 투명한 3D 층 (WAKPPU_clicker의 Wax Studio 파쇄) -->
         <canvas id="yard3d"></canvas>
-        <!-- 지도 -->
-        <div id="map" class="overlay" hidden>
-          <div class="map-frame panel">
-            <div class="map-head panel-head">
-              <b>🗺️ 영토 지도</b>
-              <span class="legend"><i class="lg owned"></i>우리 영토 <i class="lg open"></i>원정 가능 <i class="lg locked"></i>잠김 <i class="lg hidden"></i>미발견</span>
-              <button id="btn-map-close" class="x" aria-label="지도 닫기">✕</button>
-            </div>
-            <div class="map-body">
-              <div id="map-svg"></div>
-              <div id="map-card"></div>
-            </div>
-          </div>
-        </div>
+        <!-- 작은 지도: 누르면 그곳으로 -->
+        <canvas id="minimap" title="작은 지도 — 누르거나 끌면 그곳으로 가요"></canvas>
+        <div id="navhelp">🖱️ 오른쪽 버튼 끌기: 이동 · 휠: 확대·축소 · H: 마을로</div>
       </section>
       <div id="toasts" aria-live="polite"></div>
       <div id="modal" class="modal" hidden></div>

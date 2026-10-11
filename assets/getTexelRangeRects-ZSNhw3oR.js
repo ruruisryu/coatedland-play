@@ -1,4 +1,4 @@
-import{i as e,m as t,ot as n,r,tt as i,z as a}from"./CanvasPool-UKBFKXoQ.js";import{k as o,w as s}from"./RenderTargetSystem-BUZSMlsI.js";var c={name:`local-uniform-bit`,vertex:{header:`
+import{i as e,m as t,ot as n,r,tt as i,z as a}from"./CanvasPool-UKBFKXoQ.js";import{A as o,T as s}from"./RenderTargetSystem-CRWkdhnB.js";var c={name:`local-uniform-bit`,vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
