@@ -1,0 +1,6645 @@
+{
+  "version": 1,
+  "style": "approved brushpen v03",
+  "status": "REPLACEMENT_ASSETS_NOT_INTEGRATED",
+  "entries": [
+    {
+      "id": "facility_waxGrove",
+      "group": "facilities",
+      "source": "exec-afed0a80-25b9-439e-8214-5bac3e45107b.png",
+      "worldWidth": 300,
+      "footprint": [
+        3.2,
+        2.4
+      ],
+      "replaces": "makeGrove",
+      "file": "assets/facilities/facility_waxGrove.png",
+      "sourcePixels": [
+        1048,
+        859
+      ],
+      "worldHeight": 245.8969465648855,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_waxGrove",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_waxGrove.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_waxGrove"
+    },
+    {
+      "id": "facility_quarry",
+      "group": "facilities",
+      "source": "exec-eddae416-39bd-43ae-9368-b0523443753d.png",
+      "worldWidth": 300,
+      "footprint": [
+        3,
+        2.2
+      ],
+      "replaces": "makeQuarry",
+      "file": "assets/facilities/facility_quarry.png",
+      "sourcePixels": [
+        1048,
+        619
+      ],
+      "worldHeight": 177.1946564885496,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_quarry",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_quarry.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_quarry"
+    },
+    {
+      "id": "facility_candle",
+      "group": "facilities",
+      "source": "exec-4222871c-68b0-4286-a452-83e9259bd6e5.png",
+      "worldWidth": 150,
+      "footprint": [
+        1.8,
+        1.8
+      ],
+      "replaces": "makeCandle",
+      "file": "assets/facilities/facility_candle.png",
+      "sourcePixels": [
+        682,
+        1048
+      ],
+      "worldHeight": 230.49853372434018,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_candle",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_candle.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_candle"
+    },
+    {
+      "id": "facility_nest",
+      "group": "facilities",
+      "source": "exec-1b904c2f-5c34-44f5-b21e-29e59fe3ef30.png",
+      "worldWidth": 400,
+      "footprint": [
+        7,
+        2.4
+      ],
+      "replaces": "makeNest",
+      "file": "assets/facilities/facility_nest.png",
+      "sourcePixels": [
+        1048,
+        539
+      ],
+      "worldHeight": 205.72519083969465,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_nest",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_nest.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_nest"
+    },
+    {
+      "id": "facility_camp",
+      "group": "facilities",
+      "source": "exec-9ce21edc-2204-45a9-a190-05595b8f26e1.png",
+      "worldWidth": 260,
+      "footprint": [
+        3.2,
+        2.2
+      ],
+      "replaces": "makeCamp",
+      "file": "assets/facilities/facility_camp.png",
+      "sourcePixels": [
+        1048,
+        765
+      ],
+      "worldHeight": 189.79007633587787,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_camp",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_camp.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_camp"
+    },
+    {
+      "id": "facility_pen",
+      "group": "facilities",
+      "source": "exec-7c4428ae-bd42-4b61-8924-15267f790e10.png",
+      "worldWidth": 320,
+      "footprint": [
+        3.4,
+        2.4
+      ],
+      "replaces": "makePen",
+      "file": "assets/facilities/facility_pen.png",
+      "sourcePixels": [
+        1048,
+        740
+      ],
+      "worldHeight": 225.95419847328245,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_pen",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_pen.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_pen"
+    },
+    {
+      "id": "facility_coating",
+      "group": "facilities",
+      "source": "exec-8d602b91-eac8-4eb7-99e0-59c04bfbc138.png",
+      "worldWidth": 300,
+      "footprint": [
+        3.4,
+        2.4
+      ],
+      "replaces": "makeCauldron",
+      "file": "assets/facilities/facility_coating.png",
+      "sourcePixels": [
+        1048,
+        797
+      ],
+      "worldHeight": 228.14885496183206,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_coating",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_coating.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_coating"
+    },
+    {
+      "id": "facility_rack",
+      "group": "facilities",
+      "source": "exec-a74b2650-1530-4137-bf65-d2154d24eaca.png",
+      "worldWidth": 300,
+      "footprint": [
+        3.2,
+        1.6
+      ],
+      "replaces": "makeRack",
+      "file": "assets/facilities/facility_rack.png",
+      "sourcePixels": [
+        1048,
+        778
+      ],
+      "worldHeight": 222.70992366412213,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_rack",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_rack.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_rack"
+    },
+    {
+      "id": "facility_yard",
+      "group": "facilities",
+      "source": "exec-997843a5-62b8-4b93-8205-94d72166fe5b.png",
+      "worldWidth": 520,
+      "footprint": [
+        9,
+        2.6
+      ],
+      "replaces": "makeYard",
+      "file": "assets/facilities/facility_yard.png",
+      "sourcePixels": [
+        1048,
+        434
+      ],
+      "worldHeight": 215.34351145038167,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_yard",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_yard.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_yard"
+    },
+    {
+      "id": "pine",
+      "group": "environment",
+      "source": "exec-62564555-17a2-4bcc-ba54-e30a72fbc01a.png",
+      "worldWidth": 80,
+      "replaces": "pine",
+      "file": "assets/environment/pine.png",
+      "sourcePixels": [
+        308,
+        536
+      ],
+      "worldHeight": 139.2207792207792,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "roundTree",
+      "group": "environment",
+      "source": "exec-9ed151e6-271d-40fb-83f3-e36ffc266096.png",
+      "worldWidth": 100,
+      "replaces": "roundTree",
+      "file": "assets/environment/roundTree.png",
+      "sourcePixels": [
+        536,
+        498
+      ],
+      "worldHeight": 92.91044776119404,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "mountain",
+      "group": "environment",
+      "source": "exec-bdc45c04-9cae-4a3e-8088-52c303bba948.png",
+      "worldWidth": 250,
+      "replaces": "mountain",
+      "file": "assets/environment/mountain.png",
+      "sourcePixels": [
+        536,
+        331
+      ],
+      "worldHeight": 154.38432835820896,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "thicket",
+      "group": "debris",
+      "source": "exec-734da222-66fb-4d6e-8996-97826b19b081.png",
+      "worldWidth": 100,
+      "replaces": "thicket",
+      "file": "assets/debris/thicket.png",
+      "sourcePixels": [
+        536,
+        271
+      ],
+      "worldHeight": 50.559701492537314,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "stump",
+      "group": "debris",
+      "source": "exec-fb8f7b7b-9a5d-4dbf-9051-dbd559891e61.png",
+      "worldWidth": 70,
+      "replaces": "stump",
+      "file": "assets/debris/stump.png",
+      "sourcePixels": [
+        536,
+        397
+      ],
+      "worldHeight": 51.84701492537314,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "log",
+      "group": "debris",
+      "source": "exec-75d29555-5bb9-43eb-9b55-56c44e982384.png",
+      "worldWidth": 130,
+      "replaces": "log",
+      "file": "assets/debris/log.png",
+      "sourcePixels": [
+        536,
+        336
+      ],
+      "worldHeight": 81.49253731343283,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "boulder",
+      "group": "debris",
+      "source": "exec-14d87c35-2e89-41f9-8e95-8760e9a34055.png",
+      "worldWidth": 110,
+      "replaces": "boulder",
+      "file": "assets/debris/boulder.png",
+      "sourcePixels": [
+        536,
+        440
+      ],
+      "worldHeight": 90.29850746268657,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "tribe_hut",
+      "group": "worldprops",
+      "source": "exec-66ccda99-6544-4e01-8670-07b3c5803b7e.png",
+      "worldWidth": 125,
+      "replaces": "camps settlement hut",
+      "file": "assets/worldprops/tribe_hut.png",
+      "sourcePixels": [
+        536,
+        520
+      ],
+      "worldHeight": 121.26865671641791,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "scaffold",
+      "group": "worldprops",
+      "source": "exec-b41c1163-5a46-4f0e-9f81-ef85cbf6e645.png",
+      "worldWidth": 280,
+      "replaces": "Building.scaffold",
+      "file": "assets/worldprops/scaffold.png",
+      "sourcePixels": [
+        536,
+        485
+      ],
+      "worldHeight": 253.3582089552239,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "facility_candle_evolved",
+      "group": "facilities",
+      "source": "exec-ab7a0039-5d1c-496d-9f94-445c14df8e7c.png",
+      "worldWidth": 190,
+      "footprint": [
+        1.8,
+        1.8
+      ],
+      "replaces": "makeCandle developed visual",
+      "file": "assets/facilities/facility_candle_evolved.png",
+      "sourcePixels": [
+        759,
+        1048
+      ],
+      "worldHeight": 262.3451910408432,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_candle_evolved",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_candle_evolved.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_candle_evolved"
+    },
+    {
+      "id": "facility_coating_evolved",
+      "group": "facilities",
+      "source": "exec-e3f1ba99-9090-4cfb-9e14-7028a909d14b.png",
+      "worldWidth": 330,
+      "footprint": [
+        3.4,
+        2.4
+      ],
+      "replaces": "makeCauldron dipping trough",
+      "file": "assets/facilities/facility_coating_evolved.png",
+      "sourcePixels": [
+        1048,
+        797
+      ],
+      "worldHeight": 250.96374045801528,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_coating_evolved",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_coating_evolved.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_coating_evolved"
+    },
+    {
+      "id": "facility_nest_evolved",
+      "group": "facilities",
+      "source": "exec-7935d1ae-cc8b-45e5-bda6-394aba87fa2c.png",
+      "worldWidth": 440,
+      "footprint": [
+        7,
+        2.4
+      ],
+      "replaces": "makeNest developed visual",
+      "file": "assets/facilities/facility_nest_evolved.png",
+      "sourcePixels": [
+        1048,
+        441
+      ],
+      "worldHeight": 185.15267175572518,
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "role": "static-sprite"
+    },
+    {
+      "id": "icon_facility_nest_evolved",
+      "group": "icons",
+      "file": "assets/icons/icon_facility_nest_evolved.png",
+      "sourcePixels": [
+        128,
+        128
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "derivedFrom": "facility_nest_evolved"
+    },
+    {
+      "id": "meadow_fill_a",
+      "file": "terrain/tiles/base/meadow_fill_a.png",
+      "role": "base",
+      "terrain": "meadow",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow_fill_b",
+      "file": "terrain/tiles/base/meadow_fill_b.png",
+      "role": "base",
+      "terrain": "meadow",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow_fill_c",
+      "file": "terrain/tiles/base/meadow_fill_c.png",
+      "role": "base",
+      "terrain": "meadow",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth_fill_a",
+      "file": "terrain/tiles/base/earth_fill_a.png",
+      "role": "base",
+      "terrain": "earth",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth_fill_b",
+      "file": "terrain/tiles/base/earth_fill_b.png",
+      "role": "base",
+      "terrain": "earth",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth_fill_c",
+      "file": "terrain/tiles/base/earth_fill_c.png",
+      "role": "base",
+      "terrain": "earth",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "stone_fill_a",
+      "file": "terrain/tiles/base/stone_fill_a.png",
+      "role": "base",
+      "terrain": "stone",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "stone_fill_b",
+      "file": "terrain/tiles/base/stone_fill_b.png",
+      "role": "base",
+      "terrain": "stone",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "stone_fill_c",
+      "file": "terrain/tiles/base/stone_fill_c.png",
+      "role": "base",
+      "terrain": "stone",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh_fill_a",
+      "file": "terrain/tiles/base/marsh_fill_a.png",
+      "role": "base",
+      "terrain": "marsh",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh_fill_b",
+      "file": "terrain/tiles/base/marsh_fill_b.png",
+      "role": "base",
+      "terrain": "marsh",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh_fill_c",
+      "file": "terrain/tiles/base/marsh_fill_c.png",
+      "role": "base",
+      "terrain": "marsh",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "water_fill_a",
+      "file": "terrain/tiles/base/water_fill_a.png",
+      "role": "base",
+      "terrain": "water",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "water_fill_b",
+      "file": "terrain/tiles/base/water_fill_b.png",
+      "role": "base",
+      "terrain": "water",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "water_fill_c",
+      "file": "terrain/tiles/base/water_fill_c.png",
+      "role": "base",
+      "terrain": "water",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "wax_fill_a",
+      "file": "terrain/tiles/base/wax_fill_a.png",
+      "role": "base",
+      "terrain": "wax",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "wax_fill_b",
+      "file": "terrain/tiles/base/wax_fill_b.png",
+      "role": "base",
+      "terrain": "wax",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "wax_fill_c",
+      "file": "terrain/tiles/base/wax_fill_c.png",
+      "role": "base",
+      "terrain": "wax",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash_fill_a",
+      "file": "terrain/tiles/base/ash_fill_a.png",
+      "role": "base",
+      "terrain": "ash",
+      "to": null,
+      "mask": null,
+      "variant": 0,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash_fill_b",
+      "file": "terrain/tiles/base/ash_fill_b.png",
+      "role": "base",
+      "terrain": "ash",
+      "to": null,
+      "mask": null,
+      "variant": 1,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash_fill_c",
+      "file": "terrain/tiles/base/ash_fill_c.png",
+      "role": "base",
+      "terrain": "ash",
+      "to": null,
+      "mask": null,
+      "variant": 2,
+      "shape": "base",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_outer_m1",
+      "file": "terrain/tiles/transition/meadow__earth_outer_m1.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_outer_m2",
+      "file": "terrain/tiles/transition/meadow__earth_outer_m2.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_edge_m3",
+      "file": "terrain/tiles/transition/meadow__earth_edge_m3.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_outer_m4",
+      "file": "terrain/tiles/transition/meadow__earth_outer_m4.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_saddle_m5",
+      "file": "terrain/tiles/transition/meadow__earth_saddle_m5.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_edge_m6",
+      "file": "terrain/tiles/transition/meadow__earth_edge_m6.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_inner_m7",
+      "file": "terrain/tiles/transition/meadow__earth_inner_m7.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_outer_m8",
+      "file": "terrain/tiles/transition/meadow__earth_outer_m8.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_edge_m9",
+      "file": "terrain/tiles/transition/meadow__earth_edge_m9.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_saddle_ma",
+      "file": "terrain/tiles/transition/meadow__earth_saddle_ma.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_inner_mb",
+      "file": "terrain/tiles/transition/meadow__earth_inner_mb.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_edge_mc",
+      "file": "terrain/tiles/transition/meadow__earth_edge_mc.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_inner_md",
+      "file": "terrain/tiles/transition/meadow__earth_inner_md.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_inner_me",
+      "file": "terrain/tiles/transition/meadow__earth_inner_me.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_outer_m1",
+      "file": "terrain/tiles/transition/meadow__stone_outer_m1.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_outer_m2",
+      "file": "terrain/tiles/transition/meadow__stone_outer_m2.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_edge_m3",
+      "file": "terrain/tiles/transition/meadow__stone_edge_m3.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_outer_m4",
+      "file": "terrain/tiles/transition/meadow__stone_outer_m4.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_saddle_m5",
+      "file": "terrain/tiles/transition/meadow__stone_saddle_m5.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_edge_m6",
+      "file": "terrain/tiles/transition/meadow__stone_edge_m6.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_inner_m7",
+      "file": "terrain/tiles/transition/meadow__stone_inner_m7.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_outer_m8",
+      "file": "terrain/tiles/transition/meadow__stone_outer_m8.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_edge_m9",
+      "file": "terrain/tiles/transition/meadow__stone_edge_m9.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_saddle_ma",
+      "file": "terrain/tiles/transition/meadow__stone_saddle_ma.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_inner_mb",
+      "file": "terrain/tiles/transition/meadow__stone_inner_mb.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_edge_mc",
+      "file": "terrain/tiles/transition/meadow__stone_edge_mc.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_inner_md",
+      "file": "terrain/tiles/transition/meadow__stone_inner_md.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__stone_inner_me",
+      "file": "terrain/tiles/transition/meadow__stone_inner_me.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "stone",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_outer_m1",
+      "file": "terrain/tiles/transition/earth__stone_outer_m1.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_outer_m2",
+      "file": "terrain/tiles/transition/earth__stone_outer_m2.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_edge_m3",
+      "file": "terrain/tiles/transition/earth__stone_edge_m3.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_outer_m4",
+      "file": "terrain/tiles/transition/earth__stone_outer_m4.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_saddle_m5",
+      "file": "terrain/tiles/transition/earth__stone_saddle_m5.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_edge_m6",
+      "file": "terrain/tiles/transition/earth__stone_edge_m6.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_inner_m7",
+      "file": "terrain/tiles/transition/earth__stone_inner_m7.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_outer_m8",
+      "file": "terrain/tiles/transition/earth__stone_outer_m8.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_edge_m9",
+      "file": "terrain/tiles/transition/earth__stone_edge_m9.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_saddle_ma",
+      "file": "terrain/tiles/transition/earth__stone_saddle_ma.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_inner_mb",
+      "file": "terrain/tiles/transition/earth__stone_inner_mb.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_edge_mc",
+      "file": "terrain/tiles/transition/earth__stone_edge_mc.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_inner_md",
+      "file": "terrain/tiles/transition/earth__stone_inner_md.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__stone_inner_me",
+      "file": "terrain/tiles/transition/earth__stone_inner_me.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "stone",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_outer_m1",
+      "file": "terrain/tiles/transition/meadow__marsh_outer_m1.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_outer_m2",
+      "file": "terrain/tiles/transition/meadow__marsh_outer_m2.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_edge_m3",
+      "file": "terrain/tiles/transition/meadow__marsh_edge_m3.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_outer_m4",
+      "file": "terrain/tiles/transition/meadow__marsh_outer_m4.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_saddle_m5",
+      "file": "terrain/tiles/transition/meadow__marsh_saddle_m5.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_edge_m6",
+      "file": "terrain/tiles/transition/meadow__marsh_edge_m6.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_inner_m7",
+      "file": "terrain/tiles/transition/meadow__marsh_inner_m7.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_outer_m8",
+      "file": "terrain/tiles/transition/meadow__marsh_outer_m8.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_edge_m9",
+      "file": "terrain/tiles/transition/meadow__marsh_edge_m9.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_saddle_ma",
+      "file": "terrain/tiles/transition/meadow__marsh_saddle_ma.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_inner_mb",
+      "file": "terrain/tiles/transition/meadow__marsh_inner_mb.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_edge_mc",
+      "file": "terrain/tiles/transition/meadow__marsh_edge_mc.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_inner_md",
+      "file": "terrain/tiles/transition/meadow__marsh_inner_md.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__marsh_inner_me",
+      "file": "terrain/tiles/transition/meadow__marsh_inner_me.png",
+      "role": "transition",
+      "terrain": "meadow",
+      "to": "marsh",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_outer_m1",
+      "file": "terrain/tiles/transition/marsh__water_outer_m1.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_outer_m2",
+      "file": "terrain/tiles/transition/marsh__water_outer_m2.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_edge_m3",
+      "file": "terrain/tiles/transition/marsh__water_edge_m3.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_outer_m4",
+      "file": "terrain/tiles/transition/marsh__water_outer_m4.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_saddle_m5",
+      "file": "terrain/tiles/transition/marsh__water_saddle_m5.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_edge_m6",
+      "file": "terrain/tiles/transition/marsh__water_edge_m6.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_inner_m7",
+      "file": "terrain/tiles/transition/marsh__water_inner_m7.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_outer_m8",
+      "file": "terrain/tiles/transition/marsh__water_outer_m8.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_edge_m9",
+      "file": "terrain/tiles/transition/marsh__water_edge_m9.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_saddle_ma",
+      "file": "terrain/tiles/transition/marsh__water_saddle_ma.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_inner_mb",
+      "file": "terrain/tiles/transition/marsh__water_inner_mb.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_edge_mc",
+      "file": "terrain/tiles/transition/marsh__water_edge_mc.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_inner_md",
+      "file": "terrain/tiles/transition/marsh__water_inner_md.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_inner_me",
+      "file": "terrain/tiles/transition/marsh__water_inner_me.png",
+      "role": "transition",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_outer_m1",
+      "file": "terrain/tiles/transition/earth__wax_outer_m1.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_outer_m2",
+      "file": "terrain/tiles/transition/earth__wax_outer_m2.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_edge_m3",
+      "file": "terrain/tiles/transition/earth__wax_edge_m3.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_outer_m4",
+      "file": "terrain/tiles/transition/earth__wax_outer_m4.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_saddle_m5",
+      "file": "terrain/tiles/transition/earth__wax_saddle_m5.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_edge_m6",
+      "file": "terrain/tiles/transition/earth__wax_edge_m6.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_inner_m7",
+      "file": "terrain/tiles/transition/earth__wax_inner_m7.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_outer_m8",
+      "file": "terrain/tiles/transition/earth__wax_outer_m8.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_edge_m9",
+      "file": "terrain/tiles/transition/earth__wax_edge_m9.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_saddle_ma",
+      "file": "terrain/tiles/transition/earth__wax_saddle_ma.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_inner_mb",
+      "file": "terrain/tiles/transition/earth__wax_inner_mb.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_edge_mc",
+      "file": "terrain/tiles/transition/earth__wax_edge_mc.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_inner_md",
+      "file": "terrain/tiles/transition/earth__wax_inner_md.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__wax_inner_me",
+      "file": "terrain/tiles/transition/earth__wax_inner_me.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "wax",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_outer_m1",
+      "file": "terrain/tiles/transition/earth__ash_outer_m1.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_outer_m2",
+      "file": "terrain/tiles/transition/earth__ash_outer_m2.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_edge_m3",
+      "file": "terrain/tiles/transition/earth__ash_edge_m3.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_outer_m4",
+      "file": "terrain/tiles/transition/earth__ash_outer_m4.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_saddle_m5",
+      "file": "terrain/tiles/transition/earth__ash_saddle_m5.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_edge_m6",
+      "file": "terrain/tiles/transition/earth__ash_edge_m6.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_inner_m7",
+      "file": "terrain/tiles/transition/earth__ash_inner_m7.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_outer_m8",
+      "file": "terrain/tiles/transition/earth__ash_outer_m8.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_edge_m9",
+      "file": "terrain/tiles/transition/earth__ash_edge_m9.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_saddle_ma",
+      "file": "terrain/tiles/transition/earth__ash_saddle_ma.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_inner_mb",
+      "file": "terrain/tiles/transition/earth__ash_inner_mb.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_edge_mc",
+      "file": "terrain/tiles/transition/earth__ash_edge_mc.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_inner_md",
+      "file": "terrain/tiles/transition/earth__ash_inner_md.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "earth__ash_inner_me",
+      "file": "terrain/tiles/transition/earth__ash_inner_me.png",
+      "role": "transition",
+      "terrain": "earth",
+      "to": "ash",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_outer_m1",
+      "file": "terrain/tiles/transition/ash__wax_outer_m1.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 1,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_outer_m2",
+      "file": "terrain/tiles/transition/ash__wax_outer_m2.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 2,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_edge_m3",
+      "file": "terrain/tiles/transition/ash__wax_edge_m3.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 3,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_outer_m4",
+      "file": "terrain/tiles/transition/ash__wax_outer_m4.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 4,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_saddle_m5",
+      "file": "terrain/tiles/transition/ash__wax_saddle_m5.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 5,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_edge_m6",
+      "file": "terrain/tiles/transition/ash__wax_edge_m6.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 6,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_inner_m7",
+      "file": "terrain/tiles/transition/ash__wax_inner_m7.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 7,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_outer_m8",
+      "file": "terrain/tiles/transition/ash__wax_outer_m8.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 8,
+      "variant": 0,
+      "shape": "outer",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_edge_m9",
+      "file": "terrain/tiles/transition/ash__wax_edge_m9.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 9,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_saddle_ma",
+      "file": "terrain/tiles/transition/ash__wax_saddle_ma.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 10,
+      "variant": 0,
+      "shape": "saddle",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_inner_mb",
+      "file": "terrain/tiles/transition/ash__wax_inner_mb.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 11,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_edge_mc",
+      "file": "terrain/tiles/transition/ash__wax_edge_mc.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 12,
+      "variant": 0,
+      "shape": "edge",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_inner_md",
+      "file": "terrain/tiles/transition/ash__wax_inner_md.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 13,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "ash__wax_inner_me",
+      "file": "terrain/tiles/transition/ash__wax_inner_me.png",
+      "role": "transition",
+      "terrain": "ash",
+      "to": "wax",
+      "mask": 14,
+      "variant": 0,
+      "shape": "inner",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p0",
+      "file": "terrain/tiles/path/meadow__earth_path_p0.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 0,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p1",
+      "file": "terrain/tiles/path/meadow__earth_path_p1.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 1,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p2",
+      "file": "terrain/tiles/path/meadow__earth_path_p2.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 2,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p3",
+      "file": "terrain/tiles/path/meadow__earth_path_p3.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 3,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p4",
+      "file": "terrain/tiles/path/meadow__earth_path_p4.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 4,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p5",
+      "file": "terrain/tiles/path/meadow__earth_path_p5.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 5,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p6",
+      "file": "terrain/tiles/path/meadow__earth_path_p6.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 6,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p7",
+      "file": "terrain/tiles/path/meadow__earth_path_p7.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 7,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p8",
+      "file": "terrain/tiles/path/meadow__earth_path_p8.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 8,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_p9",
+      "file": "terrain/tiles/path/meadow__earth_path_p9.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 9,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pa",
+      "file": "terrain/tiles/path/meadow__earth_path_pa.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 10,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pb",
+      "file": "terrain/tiles/path/meadow__earth_path_pb.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 11,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pc",
+      "file": "terrain/tiles/path/meadow__earth_path_pc.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 12,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pd",
+      "file": "terrain/tiles/path/meadow__earth_path_pd.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 13,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pe",
+      "file": "terrain/tiles/path/meadow__earth_path_pe.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 14,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "meadow__earth_path_pf",
+      "file": "terrain/tiles/path/meadow__earth_path_pf.png",
+      "role": "path",
+      "terrain": "meadow",
+      "to": "earth",
+      "mask": 15,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p0",
+      "file": "terrain/tiles/path/marsh__water_path_p0.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 0,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p1",
+      "file": "terrain/tiles/path/marsh__water_path_p1.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 1,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p2",
+      "file": "terrain/tiles/path/marsh__water_path_p2.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 2,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p3",
+      "file": "terrain/tiles/path/marsh__water_path_p3.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 3,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p4",
+      "file": "terrain/tiles/path/marsh__water_path_p4.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 4,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p5",
+      "file": "terrain/tiles/path/marsh__water_path_p5.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 5,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p6",
+      "file": "terrain/tiles/path/marsh__water_path_p6.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 6,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p7",
+      "file": "terrain/tiles/path/marsh__water_path_p7.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 7,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p8",
+      "file": "terrain/tiles/path/marsh__water_path_p8.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 8,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_p9",
+      "file": "terrain/tiles/path/marsh__water_path_p9.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 9,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pa",
+      "file": "terrain/tiles/path/marsh__water_path_pa.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 10,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pb",
+      "file": "terrain/tiles/path/marsh__water_path_pb.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 11,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pc",
+      "file": "terrain/tiles/path/marsh__water_path_pc.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 12,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pd",
+      "file": "terrain/tiles/path/marsh__water_path_pd.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 13,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pe",
+      "file": "terrain/tiles/path/marsh__water_path_pe.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 14,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "marsh__water_path_pf",
+      "file": "terrain/tiles/path/marsh__water_path_pf.png",
+      "role": "path",
+      "terrain": "marsh",
+      "to": "water",
+      "mask": 15,
+      "variant": 0,
+      "shape": "path",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_tuft",
+      "file": "terrain/tiles/decal/decal_tuft.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_stones",
+      "file": "terrain/tiles/decal/decal_stones.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_shards",
+      "file": "terrain/tiles/decal/decal_shards.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_pool",
+      "file": "terrain/tiles/decal/decal_pool.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_reeds",
+      "file": "terrain/tiles/decal/decal_reeds.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_char",
+      "file": "terrain/tiles/decal/decal_char.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "decal_rite",
+      "file": "terrain/tiles/decal/decal_rite.png",
+      "role": "decal",
+      "terrain": "decoration",
+      "sourcePixels": [
+        256,
+        128
+      ],
+      "worldPixels": [
+        128,
+        64
+      ],
+      "anchor": [
+        0.5,
+        0
+      ],
+      "group": "terrain",
+      "worldWidth": 128
+    },
+    {
+      "id": "mallang_ours_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_idle.png",
+      "svg": "assets/characters/mallang_ours_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_ours_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_workA.png",
+      "svg": "assets/characters/mallang_ours_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_ours_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_workB.png",
+      "svg": "assets/characters/mallang_ours_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_ours_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_walkA.png",
+      "svg": "assets/characters/mallang_ours_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_ours_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_walkB.png",
+      "svg": "assets/characters/mallang_ours_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_ours_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_cheer.png",
+      "svg": "assets/characters/mallang_ours_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_ours_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_stiff.png",
+      "svg": "assets/characters/mallang_ours_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_ours_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_closed.png",
+      "svg": "assets/characters/mallang_ours_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_ours_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_ours_wow.png",
+      "svg": "assets/characters/mallang_ours_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "ours",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_moss_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_idle.png",
+      "svg": "assets/characters/mallang_moss_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_moss_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_workA.png",
+      "svg": "assets/characters/mallang_moss_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_moss_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_workB.png",
+      "svg": "assets/characters/mallang_moss_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_moss_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_walkA.png",
+      "svg": "assets/characters/mallang_moss_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_moss_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_walkB.png",
+      "svg": "assets/characters/mallang_moss_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_moss_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_cheer.png",
+      "svg": "assets/characters/mallang_moss_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_moss_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_stiff.png",
+      "svg": "assets/characters/mallang_moss_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_moss_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_closed.png",
+      "svg": "assets/characters/mallang_moss_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_moss_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_moss_wow.png",
+      "svg": "assets/characters/mallang_moss_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moss",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_drop_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_idle.png",
+      "svg": "assets/characters/mallang_drop_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_drop_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_workA.png",
+      "svg": "assets/characters/mallang_drop_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_drop_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_workB.png",
+      "svg": "assets/characters/mallang_drop_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_drop_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_walkA.png",
+      "svg": "assets/characters/mallang_drop_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_drop_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_walkB.png",
+      "svg": "assets/characters/mallang_drop_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_drop_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_cheer.png",
+      "svg": "assets/characters/mallang_drop_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_drop_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_stiff.png",
+      "svg": "assets/characters/mallang_drop_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_drop_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_closed.png",
+      "svg": "assets/characters/mallang_drop_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_drop_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_drop_wow.png",
+      "svg": "assets/characters/mallang_drop_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "drop",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_moon_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_idle.png",
+      "svg": "assets/characters/mallang_moon_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_moon_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_workA.png",
+      "svg": "assets/characters/mallang_moon_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_moon_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_workB.png",
+      "svg": "assets/characters/mallang_moon_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_moon_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_walkA.png",
+      "svg": "assets/characters/mallang_moon_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_moon_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_walkB.png",
+      "svg": "assets/characters/mallang_moon_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_moon_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_cheer.png",
+      "svg": "assets/characters/mallang_moon_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_moon_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_stiff.png",
+      "svg": "assets/characters/mallang_moon_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_moon_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_closed.png",
+      "svg": "assets/characters/mallang_moon_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_moon_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_moon_wow.png",
+      "svg": "assets/characters/mallang_moon_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "moon",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_shell_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_idle.png",
+      "svg": "assets/characters/mallang_shell_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_shell_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_workA.png",
+      "svg": "assets/characters/mallang_shell_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_shell_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_workB.png",
+      "svg": "assets/characters/mallang_shell_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_shell_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_walkA.png",
+      "svg": "assets/characters/mallang_shell_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_shell_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_walkB.png",
+      "svg": "assets/characters/mallang_shell_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_shell_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_cheer.png",
+      "svg": "assets/characters/mallang_shell_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_shell_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_stiff.png",
+      "svg": "assets/characters/mallang_shell_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_shell_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_closed.png",
+      "svg": "assets/characters/mallang_shell_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_shell_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_shell_wow.png",
+      "svg": "assets/characters/mallang_shell_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "shell",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_pebble_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_idle.png",
+      "svg": "assets/characters/mallang_pebble_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_pebble_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_workA.png",
+      "svg": "assets/characters/mallang_pebble_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_pebble_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_workB.png",
+      "svg": "assets/characters/mallang_pebble_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_pebble_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_walkA.png",
+      "svg": "assets/characters/mallang_pebble_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_pebble_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_walkB.png",
+      "svg": "assets/characters/mallang_pebble_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_pebble_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_cheer.png",
+      "svg": "assets/characters/mallang_pebble_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_pebble_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_stiff.png",
+      "svg": "assets/characters/mallang_pebble_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_pebble_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_closed.png",
+      "svg": "assets/characters/mallang_pebble_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_pebble_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_pebble_wow.png",
+      "svg": "assets/characters/mallang_pebble_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "pebble",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_night_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_idle.png",
+      "svg": "assets/characters/mallang_night_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_night_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_workA.png",
+      "svg": "assets/characters/mallang_night_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_night_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_workB.png",
+      "svg": "assets/characters/mallang_night_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_night_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_walkA.png",
+      "svg": "assets/characters/mallang_night_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_night_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_walkB.png",
+      "svg": "assets/characters/mallang_night_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_night_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_cheer.png",
+      "svg": "assets/characters/mallang_night_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_night_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_stiff.png",
+      "svg": "assets/characters/mallang_night_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_night_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_closed.png",
+      "svg": "assets/characters/mallang_night_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_night_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_night_wow.png",
+      "svg": "assets/characters/mallang_night_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "night",
+      "pose": "wow"
+    },
+    {
+      "id": "mallang_sprout_idle",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_idle.png",
+      "svg": "assets/characters/mallang_sprout_idle.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "idle"
+    },
+    {
+      "id": "mallang_sprout_workA",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_workA.png",
+      "svg": "assets/characters/mallang_sprout_workA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "workA"
+    },
+    {
+      "id": "mallang_sprout_workB",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_workB.png",
+      "svg": "assets/characters/mallang_sprout_workB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "workB"
+    },
+    {
+      "id": "mallang_sprout_walkA",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_walkA.png",
+      "svg": "assets/characters/mallang_sprout_walkA.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "walkA"
+    },
+    {
+      "id": "mallang_sprout_walkB",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_walkB.png",
+      "svg": "assets/characters/mallang_sprout_walkB.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "walkB"
+    },
+    {
+      "id": "mallang_sprout_cheer",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_cheer.png",
+      "svg": "assets/characters/mallang_sprout_cheer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "cheer"
+    },
+    {
+      "id": "mallang_sprout_stiff",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_stiff.png",
+      "svg": "assets/characters/mallang_sprout_stiff.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "stiff"
+    },
+    {
+      "id": "mallang_sprout_closed",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_closed.png",
+      "svg": "assets/characters/mallang_sprout_closed.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "closed"
+    },
+    {
+      "id": "mallang_sprout_wow",
+      "group": "characters",
+      "file": "assets/characters/mallang_sprout_wow.png",
+      "svg": "assets/characters/mallang_sprout_wow.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "tribe": "sprout",
+      "pose": "wow"
+    },
+    {
+      "id": "shell_wet",
+      "group": "coating",
+      "file": "assets/coating/shell_wet.png",
+      "svg": "assets/coating/shell_wet.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "state": "wet"
+    },
+    {
+      "id": "shell_cured",
+      "group": "coating",
+      "file": "assets/coating/shell_cured.png",
+      "svg": "assets/coating/shell_cured.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "state": "cured"
+    },
+    {
+      "id": "crack_1",
+      "group": "coating",
+      "file": "assets/coating/crack_1.png",
+      "svg": "assets/coating/crack_1.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "stage": 1,
+      "role": "sample-overlay"
+    },
+    {
+      "id": "crack_2",
+      "group": "coating",
+      "file": "assets/coating/crack_2.png",
+      "svg": "assets/coating/crack_2.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "stage": 2,
+      "role": "sample-overlay"
+    },
+    {
+      "id": "crack_3",
+      "group": "coating",
+      "file": "assets/coating/crack_3.png",
+      "svg": "assets/coating/crack_3.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 40,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "stage": 3,
+      "role": "sample-overlay"
+    },
+    {
+      "id": "gear_war_front",
+      "group": "gear",
+      "file": "assets/gear/gear_war_front.png",
+      "svg": "assets/gear/gear_war_front.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 48,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "gear_craft_front",
+      "group": "gear",
+      "file": "assets/gear/gear_craft_front.png",
+      "svg": "assets/gear/gear_craft_front.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 48,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "gear_carry_front",
+      "group": "gear",
+      "file": "assets/gear/gear_carry_front.png",
+      "svg": "assets/gear/gear_carry_front.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 48,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "gear_carry_back",
+      "group": "gear",
+      "file": "assets/gear/gear_carry_back.png",
+      "svg": "assets/gear/gear_carry_back.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 48,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_wax",
+      "group": "icons",
+      "file": "assets/icons/ui_wax.png",
+      "svg": "assets/icons/ui_wax.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_materials",
+      "group": "icons",
+      "file": "assets/icons/ui_materials.png",
+      "svg": "assets/icons/ui_materials.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_prisoner",
+      "group": "icons",
+      "file": "assets/icons/ui_prisoner.png",
+      "svg": "assets/icons/ui_prisoner.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_flag",
+      "group": "icons",
+      "file": "assets/icons/ui_flag.png",
+      "svg": "assets/icons/ui_flag.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_hammer",
+      "group": "icons",
+      "file": "assets/icons/ui_hammer.png",
+      "svg": "assets/icons/ui_hammer.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_sword",
+      "group": "icons",
+      "file": "assets/icons/ui_sword.png",
+      "svg": "assets/icons/ui_sword.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_home",
+      "group": "icons",
+      "file": "assets/icons/ui_home.png",
+      "svg": "assets/icons/ui_home.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_book",
+      "group": "icons",
+      "file": "assets/icons/ui_book.png",
+      "svg": "assets/icons/ui_book.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_upgrade",
+      "group": "icons",
+      "file": "assets/icons/ui_upgrade.png",
+      "svg": "assets/icons/ui_upgrade.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_lock",
+      "group": "icons",
+      "file": "assets/icons/ui_lock.png",
+      "svg": "assets/icons/ui_lock.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_warning",
+      "group": "icons",
+      "file": "assets/icons/ui_warning.png",
+      "svg": "assets/icons/ui_warning.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_settings",
+      "group": "icons",
+      "file": "assets/icons/ui_settings.png",
+      "svg": "assets/icons/ui_settings.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_work",
+      "group": "icons",
+      "file": "assets/icons/ui_work.png",
+      "svg": "assets/icons/ui_work.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "ui_map",
+      "group": "icons",
+      "file": "assets/icons/ui_map.png",
+      "svg": "assets/icons/ui_map.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wax_chip_0",
+      "group": "fx",
+      "file": "assets/fx/wax_chip_0.png",
+      "svg": "assets/fx/wax_chip_0.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wax_chip_1",
+      "group": "fx",
+      "file": "assets/fx/wax_chip_1.png",
+      "svg": "assets/fx/wax_chip_1.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wax_chip_2",
+      "group": "fx",
+      "file": "assets/fx/wax_chip_2.png",
+      "svg": "assets/fx/wax_chip_2.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "wax_chip_3",
+      "group": "fx",
+      "file": "assets/fx/wax_chip_3.png",
+      "svg": "assets/fx/wax_chip_3.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "impact_0",
+      "group": "fx",
+      "file": "assets/fx/impact_0.png",
+      "svg": "assets/fx/impact_0.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "impact_1",
+      "group": "fx",
+      "file": "assets/fx/impact_1.png",
+      "svg": "assets/fx/impact_1.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "id": "impact_2",
+      "group": "fx",
+      "file": "assets/fx/impact_2.png",
+      "svg": "assets/fx/impact_2.svg",
+      "sourcePixels": [
+        256,
+        256
+      ],
+      "worldWidth": 32,
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "animations": {
+    "ours": {
+      "idle": [
+        "mallang_ours_idle"
+      ],
+      "walk": [
+        "mallang_ours_walkA",
+        "mallang_ours_walkB"
+      ],
+      "work": [
+        "mallang_ours_workA",
+        "mallang_ours_workB"
+      ],
+      "cheer": [
+        "mallang_ours_cheer"
+      ],
+      "stiff": [
+        "mallang_ours_stiff"
+      ],
+      "closed": [
+        "mallang_ours_closed"
+      ],
+      "wow": [
+        "mallang_ours_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "moss": {
+      "idle": [
+        "mallang_moss_idle"
+      ],
+      "walk": [
+        "mallang_moss_walkA",
+        "mallang_moss_walkB"
+      ],
+      "work": [
+        "mallang_moss_workA",
+        "mallang_moss_workB"
+      ],
+      "cheer": [
+        "mallang_moss_cheer"
+      ],
+      "stiff": [
+        "mallang_moss_stiff"
+      ],
+      "closed": [
+        "mallang_moss_closed"
+      ],
+      "wow": [
+        "mallang_moss_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "drop": {
+      "idle": [
+        "mallang_drop_idle"
+      ],
+      "walk": [
+        "mallang_drop_walkA",
+        "mallang_drop_walkB"
+      ],
+      "work": [
+        "mallang_drop_workA",
+        "mallang_drop_workB"
+      ],
+      "cheer": [
+        "mallang_drop_cheer"
+      ],
+      "stiff": [
+        "mallang_drop_stiff"
+      ],
+      "closed": [
+        "mallang_drop_closed"
+      ],
+      "wow": [
+        "mallang_drop_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "moon": {
+      "idle": [
+        "mallang_moon_idle"
+      ],
+      "walk": [
+        "mallang_moon_walkA",
+        "mallang_moon_walkB"
+      ],
+      "work": [
+        "mallang_moon_workA",
+        "mallang_moon_workB"
+      ],
+      "cheer": [
+        "mallang_moon_cheer"
+      ],
+      "stiff": [
+        "mallang_moon_stiff"
+      ],
+      "closed": [
+        "mallang_moon_closed"
+      ],
+      "wow": [
+        "mallang_moon_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "shell": {
+      "idle": [
+        "mallang_shell_idle"
+      ],
+      "walk": [
+        "mallang_shell_walkA",
+        "mallang_shell_walkB"
+      ],
+      "work": [
+        "mallang_shell_workA",
+        "mallang_shell_workB"
+      ],
+      "cheer": [
+        "mallang_shell_cheer"
+      ],
+      "stiff": [
+        "mallang_shell_stiff"
+      ],
+      "closed": [
+        "mallang_shell_closed"
+      ],
+      "wow": [
+        "mallang_shell_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "pebble": {
+      "idle": [
+        "mallang_pebble_idle"
+      ],
+      "walk": [
+        "mallang_pebble_walkA",
+        "mallang_pebble_walkB"
+      ],
+      "work": [
+        "mallang_pebble_workA",
+        "mallang_pebble_workB"
+      ],
+      "cheer": [
+        "mallang_pebble_cheer"
+      ],
+      "stiff": [
+        "mallang_pebble_stiff"
+      ],
+      "closed": [
+        "mallang_pebble_closed"
+      ],
+      "wow": [
+        "mallang_pebble_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "night": {
+      "idle": [
+        "mallang_night_idle"
+      ],
+      "walk": [
+        "mallang_night_walkA",
+        "mallang_night_walkB"
+      ],
+      "work": [
+        "mallang_night_workA",
+        "mallang_night_workB"
+      ],
+      "cheer": [
+        "mallang_night_cheer"
+      ],
+      "stiff": [
+        "mallang_night_stiff"
+      ],
+      "closed": [
+        "mallang_night_closed"
+      ],
+      "wow": [
+        "mallang_night_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    },
+    "sprout": {
+      "idle": [
+        "mallang_sprout_idle"
+      ],
+      "walk": [
+        "mallang_sprout_walkA",
+        "mallang_sprout_walkB"
+      ],
+      "work": [
+        "mallang_sprout_workA",
+        "mallang_sprout_workB"
+      ],
+      "cheer": [
+        "mallang_sprout_cheer"
+      ],
+      "stiff": [
+        "mallang_sprout_stiff"
+      ],
+      "closed": [
+        "mallang_sprout_closed"
+      ],
+      "wow": [
+        "mallang_sprout_wow"
+      ],
+      "fps": 5,
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "footInBodyUnits": 0.8
+    }
+  }
+}

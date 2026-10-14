@@ -4,14 +4,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%95%AF%EF%B8%8F%3C/text%3E%3C/svg%3E" />
-    <title>코티드 랜드 · 왁뿌 제국기</title>
-    <script type="module" crossorigin src="./assets/index-CXD2nc__.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/CanvasPool-UKBFKXoQ.js">
-    <link rel="modulepreload" crossorigin href="./assets/canvasUtils-C4EOzQNY.js">
-    <link rel="modulepreload" crossorigin href="./assets/RenderTargetSystem-CRWkdhnB.js">
-    <link rel="modulepreload" crossorigin href="./assets/getTextureBatchBindGroup-BHA4o6O8.js">
-    <link rel="modulepreload" crossorigin href="./assets/getTexelRangeRects-ZSNhw3oR.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-DwUqCPpf.css">
+    <title>코티드 랜드 v0.3.0 · 왁뿌사이비교</title>
+    <script type="module" crossorigin src="./assets/index-D191ZSlV.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/CanvasPool-CTz6W2rm.js">
+    <link rel="modulepreload" crossorigin href="./assets/Filter-DcApWjwm.js">
+    <link rel="modulepreload" crossorigin href="./assets/canvasUtils-B5KrsTsU.js">
+    <link rel="modulepreload" crossorigin href="./assets/Cache-D0EC7riK.js">
+    <link rel="modulepreload" crossorigin href="./assets/GCManagedHash-Ap6rl--7.js">
+    <link rel="modulepreload" crossorigin href="./assets/RenderTargetSystem-CJJDeiAV.js">
+    <link rel="modulepreload" crossorigin href="./assets/getTextureBatchBindGroup-BOmbyaNZ.js">
+    <link rel="modulepreload" crossorigin href="./assets/GraphicsContext-CbBJlDx8.js">
+    <link rel="modulepreload" crossorigin href="./assets/getTexelRangeRects-CxiXxEHh.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-taZDwvrX.css">
   </head>
   <body>
     <div id="app">
@@ -28,7 +32,7 @@
           <div class="chip bless" id="bless" hidden title="말랑이를 대양초에 바쳐 얻은 촛불 축복"></div>
         </header>
         <!-- 상단 가운데: 현재 목표 -->
-        <div id="goal" class="ribbon"></div>
+        <section id="goal" class="ribbon" aria-label="현재 목표"></section>
         <div id="alerts" aria-live="polite"></div>
         <!-- 필드 위 시설 이름표 · 시설 패널 -->
         <div id="plates"></div>
@@ -46,7 +50,7 @@
         <!-- 원정 현황 · 기록 -->
         <div id="sheet" class="panel" hidden><div class="panel-head"><b id="sheet-title"></b><button class="x" data-act="close-sheet" aria-label="닫기">✕</button></div><div id="sheet-body"></div></div>
         <!-- 하단 독 -->
-        <nav id="dock">
+        <nav id="dock" aria-label="마을 관리">
           <button id="btn-auto" class="dock-btn"><span class="ic">🙌</span><b>일 맡기기</b><small id="auto-count"></small></button>
           <button id="btn-home" class="dock-btn" title="정착지로 돌아가기 (H)"><span class="ic">🏠</span><b>마을로</b><small>H</small></button>
           <button id="btn-exp" class="dock-btn"><span class="ic">⛺</span><b>원정</b><small id="exp-count"></small></button>
@@ -59,7 +63,7 @@
         <canvas id="yard3d"></canvas>
         <!-- 작은 지도: 누르면 그곳으로 -->
         <canvas id="minimap" title="작은 지도 — 누르거나 끌면 그곳으로 가요"></canvas>
-        <div id="navhelp">🖱️ 오른쪽 버튼 끌기: 이동 · 휠: 확대·축소 · H: 마을로</div>
+        <details id="navhelp"><summary>화면 조작 안내</summary><p>오른쪽 버튼 끌기 · 방향키: 이동<br>휠: 확대·축소 · H: 마을로<br>Esc: 열린 패널 닫기</p></details>
       </section>
       <div id="toasts" aria-live="polite"></div>
       <div id="modal" class="modal" hidden></div>
